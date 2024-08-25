@@ -1,1 +1,3 @@
-# Software-Design-Assignment
+## Software-Design-Assignment
+
+### How the system operates 
