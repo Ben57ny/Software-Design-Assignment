@@ -7,7 +7,6 @@ The student management system is a program designed to manage student informatio
 Make sure you have python installed on your computer to run the program. If not download python at your machine
 
 ##### STEPS
-
 1. SAVE THE CODE: Save the provided code in the file with a .py extension
 2. OPEN A TERMINAL OR COMMAND PROMPT: Open the terminal or command prompt on your computer
 3. NAVIGATE TO THE FILE LOCATION: Navigate to the directory where you have saved the file using cd command
@@ -19,3 +18,10 @@ Make sure you have python installed on your computer to run the program. If not 
    - VIEW STUDENT
    - EXIT
 ###### CHANGES MADE TO THE CODE OR PROGRAM
+In the program the following changes were made 
+•	Adding a main function
+•	Implementing a basic menu system
+•	Added a while loop to get infinite number of inputs
+•	Added a function or methods to check if a student is in student records
+•	Remove to function in class of student which are display and update and locate them in the class of student database
+
