@@ -18,7 +18,7 @@ Make sure you have python installed on your computer to run the program. If not 
    - VIEW STUDENT
    - EXIT
 ###### CHANGES MADE TO THE CODE OR PROGRAM
-In the program the following changes were made: 
+In the program the following changes were made:<br>
    •	Adding a main function
    •	Implementing a basic menu system
    •	Added a while loop to get infinite number of inputs
