@@ -6,7 +6,7 @@ The student management system is a program designed to manage student informatio
 #### HOW TO RUN THE SYSTEM
 Make sure you have python installed on your computer to run the program. If not download python at your machine
 
-#####STEPS
+##### STEPS
 
 1. SAVE THE CODE: Save the provided code in the file with a .py extension
 2. OPEN A TERMINAL OR COMMAND PROMPT: Open the terminal or command prompt on your computer
