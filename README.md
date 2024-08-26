@@ -18,10 +18,10 @@ Make sure you have python installed on your computer to run the program. If not 
    - VIEW STUDENT
    - EXIT
 ###### CHANGES MADE TO THE CODE OR PROGRAM
-In the program the following changes were made 
-•	Adding a main function
-•	Implementing a basic menu system
-•	Added a while loop to get infinite number of inputs
-•	Added a function or methods to check if a student is in student records
-•	Remove to function in class of student which are display and update and locate them in the class of student database
+In the program the following changes were made: 
+   •	Adding a main function
+   •	Implementing a basic menu system
+   •	Added a while loop to get infinite number of inputs
+   •	Added a function or methods to check if a student is in student records
+   •	Remove to function in class of student which are display and update and locate them in the class of student database
 
